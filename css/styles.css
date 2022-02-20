@@ -7,3 +7,29 @@ h3 {
   margin-top: 5%;
   text-align: center;
 }
+
+#click1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click1:hover {
+  text-decoration: underline;
+}
+
+#show1 {
+  display: none;
+}
+
+#click2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click2:hover {
+  text-decoration: underline;
+}
+
+#show2 {
+  display: none;
+}
